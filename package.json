@@ -1,5 +1,5 @@
 {
-  "name": "gulp",
+  "name": "gulp-project",
   "version": "1.0.0",
   "description": "Deep dive into gulp via Udemy.com",
   "main": "index.js",
@@ -17,6 +17,8 @@
   },
   "homepage": "https://github.com/ChrisThorn10/gulp#readme",
   "devDependencies": {
-    "gulp-less": "^3.3.2"
+    "gulp": "^3.9.1",
+    "gulp-less": "^3.3.2",
+    "gulp-uglify": "^3.0.0"
   }
 }
