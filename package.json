@@ -1,0 +1,22 @@
+{
+  "name": "gulp",
+  "version": "1.0.0",
+  "description": "Deep dive into gulp via Udemy.com",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ChrisThorn10/gulp.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ChrisThorn10/gulp/issues"
+  },
+  "homepage": "https://github.com/ChrisThorn10/gulp#readme",
+  "devDependencies": {
+    "gulp-less": "^3.3.2"
+  }
+}
